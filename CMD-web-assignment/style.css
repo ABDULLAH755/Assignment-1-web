@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+}
+
+.header{
+    height: 40px;
+    padding: 10px 0;
+}
+
+.logo{
+    float: left;
+    font-weight: bold;
+}
+
+.logo img{
+    width: 70px;
+}
+
+.right-nav{
+    float: right;
+    padding-top: 20px;
+}
+
+.right-nav a{
+    color: black;
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 12px
+}
+
+.banner{
+    background-image: url("images/banner.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-size: 12px;
+    padding: 70px;
+}
+
+
+
+.details{
+    text-align: center;
+    font-size: 12px;
+    padding: 50px;
+}
+
+.btnExplore a{
+    text-decoration: none;
+    color: black;
+    background-color: lightgreen;
+    padding: 5px 20px;
+}
+
+.btnExplore{
+    
+    margin-bottom: 50px;
+}
+
+.services h4{
+    text-align: center;
+}
+
+.cards{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card{
+    margin: 5px;
+    width: 23%;
+    float: left;
+    padding: 20px 0;
+}
+
+.card img{
+    width: 100%;
+}
+.card label{
+    float: left;
+    padding: 0 20px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.card h3{
+    font-size: 13px;
+}
+.card p{
+    font-size: 10px;
+}
+
+.left{
+    width: 60%;
+    float: left;
+    font-size: 12;
+    padding: 50px;
+}
+
+.right{
+    float: left;
+    width: 25%;
+}
+
+.right img{
+    width: 200px;
+    height: 330px;
+}
+
+.findMore{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 5px 20px;
+
+}
+
+.questions{
+    margin-top: 800px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    background: url("images/qurestions-banner.jpg");
+    background-repeat: no-repeat;
+} 
+
+.findMore2{
+    text-decoration: none;
+    background-color: yellow;
+    padding: 5px 20px;
+
+}
+
+.tableDiv{
+    padding: 50px;
+}
+
+table{
+    width: 100%;
+}
+
+table th{
+background-color: lightgray;
+}
+
+.leftInterest{
+    float: left;
+    width: 50%;
+}
+
+button{
+    text-decoration: none;
+    color: black;
+    background-color: lightgreen;
+    padding: 5px 25px;
+    margin: 0;
+
+}
+
+.rightInterest{
+    background-color: lightgray;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+    width: 45%;
+}
+
+.rightInterest img{
+    width: 100%;
+}
+
+.footer{
+    background-color: lightcyan;
+    margin-top: 550px;
+    padding: 50px;
+}
